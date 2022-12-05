@@ -221,4 +221,7 @@ i.ytimg.com
 epicgames.com
 fortnite.com
 roblox.com
-
+disney-plus.net
+disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
+dssott.com
