@@ -1,3 +1,5 @@
+# YouTube
+
 youtube.com
 www.youtube.com
 kids.youtube.com
@@ -218,9 +220,39 @@ r5---sn-n4v7sn7s.googlevideo.com
 r6---sn-n4v7sn7l.googlevideo.com
 ytimg.com
 i.ytimg.com
-epicgames.com
+
+# Fortnite
 fortnite.com
+epicgames.com
+datarouter-proud.ak.epicgames.com
+fortnite-public-server-prod11.ol.epicgames.com
+fortnitewaitingroom-public-service-prod-m.ol.epicgames.com
+account-public-service-prod03.ol.epicgames.com
+datarouter.ol.epicgames.com
+eulatracking-public-service-prod06.ol.epicgames.com
+lightswitch-public-service-prod06.ol.epicgames.com
+fnwp.www.vivox.com
+xmpp-service-prod.ol.epicgames.com
+friends-public-service-prod06.ol.epicgames.com
+fortnitecontent-website-prod07.ol.epicgames.com
+account-public-service.prod.ak.epicgames.com
+fortnite-matchmaking-public-service-live-prod-b.ol.epicgames.com
+proxy.fnwp.vivox.com
+account-public-service-prod.ak.epicgames.com
+datarouter-prod.ak.epicgames.com
+fortnite-public-service-prod11.ol.epicgames.com
+fortnitewaitingroom-public-service-prod.ak.epicgames.com
+launcher-public-service-prod06.ol.epicgames.com
+epicgames-download1.akamaized.net
+account-public-service-prod-m.ol.epicgames.com
+launcher-public-service-prod-m.ol.epicgames.com
+catalog-public-service-prod-m.ol.epicgames.com
+
+# Roblox
 roblox.com
+api.roblox.com
+
+# Disney+
 disney-plus.net
 disneyplus.com
 disneyplus.com.ssl.sc.omtrdc.net
