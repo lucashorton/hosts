@@ -1,10 +1,13 @@
-# Version: 2022120401
+# Version: 2022120402
 # Title: custom blocklist
 # Last modified: 2022-12-04T21:12:00+0000
 # Expires: 1 days (update frequency)
 # Syntax: Domains
 youtube.com
 www.youtube.com
+kids.youtube.com
+youtubekids.com
 epicgames.com
 fortnite.com
 roblox.com
+discordapp.com
