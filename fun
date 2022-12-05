@@ -10,4 +10,3 @@ i.ytimg.com
 epicgames.com
 fortnite.com
 roblox.com
-discordapp.com
