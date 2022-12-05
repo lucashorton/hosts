@@ -11,5 +11,3 @@ epicgames.com
 fortnite.com
 roblox.com
 discordapp.com
-tiktok.com
-instagram.com
